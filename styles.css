@@ -1,4 +1,4 @@
-AddType text/css .css * {
+.AddType .css * {
   scroll-behavior: smooth;
   box-sizing: border-box;
   padding: 0px;
